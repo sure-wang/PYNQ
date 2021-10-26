@@ -3,6 +3,8 @@ PYNQ-EMIO_Ethernet image DIY project
 
 工程文件参考在目录“Vivado_Project”下，其中PYNQ.zip内为vivado工程，“pynq-lite_image_sources_v3”下是可直接使用到镜像构建的硬件平台描述文件。
 由于petalinux工程过于庞大（大概30多g），未共享出来。相信读者可以通过下面的教程自行制作。
+
+**本项目涉及到的所有文件仅供学习交流，禁止用于商业用途！！！**
 ***
 # 由**EMIO**驱动**以太网** 的PYNQ镜像自制教程
 
@@ -395,12 +397,14 @@ nameserver 114.114.115.115
 ​	此时已打印出U盘的设备信息，可见usb正常
 
 ​												**至此，恭喜！你已经成功拥有一个具有基本功能的PYNQ了！**
+### 6.参考镜像
+​	
 
 ​	*喜欢的话别忘记分享哦，若有问题、建议或使用反馈，请发送至邮箱1317783287@qq.com*
 
-​	*后续更改会同步发布到github*
+​	*后续更改会同步发布到[github](https://github.com/sure-wang/PYNQ.git)*
 
 
 
---By NJUPT-EOAST WXH
+--By **NJUPT-EOAST** WXH
 
