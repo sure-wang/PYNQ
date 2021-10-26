@@ -1,5 +1,6 @@
 # PYNQ
 PYNQ-EMIO_Ethernet image DIY project
+
 工程文件参考在目录“Vivado_Project”下，其中PYNQ.zip内为vivado工程，“pynq-lite_image_sources_v3”下是可直接使用到镜像构建的硬件平台描述文件。
 由于petalinux工程过于庞大（大概30多g），未共享出来。相信读者可以通过下面的教程自行制作。
 ***
